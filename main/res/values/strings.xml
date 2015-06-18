@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">81Dojo</string>
+
+    <string name="login_name">ログインネーム</string>
+    <string name="password">パスワード</string>
+    <string name="login">ログイン</string>
+    <string name="title_activity_main">81Dojo</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
