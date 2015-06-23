@@ -5,6 +5,7 @@
     <string name="password">パスワード</string>
     <string name="login">ログイン</string>
     <string name="title_activity_main">81Dojo</string>
+    <string name="login_alert">接続中...</string>
 
     <string name="action_settings">Settings</string>
 </resources>

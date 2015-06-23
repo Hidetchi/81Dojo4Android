@@ -102,6 +102,10 @@ public class SocketClient {
         _send("LOGIN " + name + " " + password + " x1");
     }
 
+    public void who() {
+        _send("%%WHO");
+    }
+
     private void _send(String str) {
         _out.println(str);
     }

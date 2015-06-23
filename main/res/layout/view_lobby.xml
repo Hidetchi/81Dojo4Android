@@ -5,10 +5,6 @@
     tools:context="com.dojo.eightyone.MainActivity"
     android:id="@+id/main_activity">
 
-    <ViewFlipper android:id="@+id/mainViewFlipper"
-        android:layout_width="fill_parent" android:layout_height="fill_parent">
-        <include android:id="@+id/loginView" layout="@layout/view_login" />
-        <include android:id="@+id/lobbyView" layout="@layout/view_lobby" />
-    </ViewFlipper>
+
 
 </RelativeLayout>
